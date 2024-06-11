@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rmordisietu.github.io/sitemap.html
+Sitemap: https://rmordisietu.github.io/app/sitemap.html
+Sitemap: https://rmordisietu.github.io/assets/sitemap.html
+Sitemap: https://rmordisietu.github.io/css/sitemap.html
+Sitemap: https://rmordisietu.github.io/includes/sitemap.html
+Sitemap: https://rmordisietu.github.io/item/sitemap.html
+Sitemap: https://rmordisietu.github.io/src/sitemap.html
